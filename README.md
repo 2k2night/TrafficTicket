@@ -1,2 +1,1 @@
-# TrafficTicket
-My son Alex took a Python class last year. This was the program he and I collaborated on.
+His teacher told him to stop going ahead of the class
